@@ -43,6 +43,7 @@ Start with the "Teams" Folder, select your team, and then select your "Project".
  File name = content-type_Page Title_version-number (status)
 
 Version
+
 •	v1 = first version, before any external review or user feedback
 
 •	v2 = second version, incorporating feedback from subject matter experts (SME) or users, or reflecting any changes after v1 has gone for review or been finalized.
