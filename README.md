@@ -6,6 +6,7 @@ The User Exerience Guide for Veterans Health Administration (VHA) Systems helps 
 
 <b> Project Goal <b>
 
+
 This repository will house content for the UX Guide created by partners through the editoral process prior to final approval by VA.
 
 This repository is used to store documents and files created and used by teams contributing to the UX Guide. It is also used for issue tracking and version control across the platform and teams building on UX Guide.
