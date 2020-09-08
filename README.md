@@ -44,22 +44,33 @@ Start with the "Teams" Folder, select your team, and then select your "Project".
 
 Version
 •	v1 = first version, before any external review or user feedback
-•	v2 = second version, incorporating feedback from subject matter experts (SME) or users, or reflecting any changes after v1 has gone for review or been finalized. 
+
+•	v2 = second version, incorporating feedback from subject matter experts (SME) or users, or reflecting any changes after v1 has gone for review or been finalized.
+
 •	v3 = third version, reflecting any changes after v2 has gone for review or been finalized.
 
 With each revision within a version — including edits from SMEs, edits addressing feedback from end users, or other edits — the file number goes up one. For example: 
+
 •	v1-01
+
 •	v1-02
+
 •	v1-03
 
 Status
+
 A file can be:
+
 •	In progress = we are writing or editing the content
+
 •	Ready for review = file is ready for SME review
+
 •	Approved = content has been approved by HFE team
 
 Examples:
+
 •	case-study_Formative Usability Tests for Design Solution_v1-01 (in progress)
+
 •	video-script_Common Usability Issues for Clinical Reminders_v2-02 (approved) 
 
 <i>An important note about security for contributors to this repository: this is a public, open source space for the sole purpose of collaborting. Do not store or share sensitive information such as Proteched Health Information (PHI), Personally Identifable Information (PII), credentials, etc.</i> 
