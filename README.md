@@ -4,8 +4,7 @@ User Experience Guide for VHA Systems
 
 The User Exerience Guide for Veterans Health Administration (VHA) Systems helps VHA project teams create easy-to-use health information technology (HIT) systems by focusing on users and their needs.
 
-<b>Project Goal<b>
-
+Project Goal
 
 This repository will house content for the UX Guide created by partners through the editoral process prior to final approval by VA.
 
