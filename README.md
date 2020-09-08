@@ -37,9 +37,11 @@ Ross Speir - Office of Health Informatics Human Factors Engineer Team Lead
  Nakina Eugene - Project Coordinator
  
  <strong> Workflow for Uploading Draft Content </strong>
+
 Start with the "Teams" Folder, select your team, and then select your "Project". Add the new content to the "Draft" folder. All editing will take place in the Draft folders (See UXG File Naming Conventions). Once finalized the files will be more to the "Final-To Be Approved" folder for HFE review. Once approved by HFE, the files will be promoted to the UXG Struture Folders. 
  
  <strong> UXG File Naming Conventions </strong>
+ 
  File name = content-type_Page Title_version-number (status)
 
 Version
