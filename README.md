@@ -74,4 +74,5 @@ Examples:
 
 •	video-script_Common Usability Issues for Clinical Reminders_v2-02 (approved) 
 
-<i>An important note about security for contributors to this repository: this is a public, open source space for the sole purpose of collaborting. Do not store or share sensitive information such as Proteched Health Information (PHI), Personally Identifable Information (PII), credentials, etc.</i> 
+
+<i>*An important note about security for contributors to this repository: this is a public, open source space for the sole purpose of collaborting. Do not store or share sensitive information such as Proteched Health Information (PHI), Personally Identifable Information (PII), credentials, etc.</i> 
