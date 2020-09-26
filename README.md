@@ -32,7 +32,7 @@ Ross Speir - Office of Health Informatics Human Factors Engineer Team Lead
  
  Aneesa Motiwala - Human Factors Engineer
  
- Ellen Bass - Human Factors Engineer
+ Ellen Bass - Sr. Human Factors Engineer
  
  Nakina Eugene - Project Coordinator
  
